@@ -1,15 +1,13 @@
 <template>
-  <router-view></router-view>
+
 </template>
 
 <script>
-
-
 export default {
-  name: 'app'
+  name: "UserListView"
 }
 </script>
 
-<style>
+<style scoped>
 
 </style>
